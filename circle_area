@@ -1,0 +1,11 @@
+#area of circle is pi*r2
+r=input('enter redius of circle: ')
+
+#pi value 3.143
+
+a = 3.143 * r * r
+
+#print area of cirle is
+print ' '
+
+print 'area of circle is:',a
